@@ -4,14 +4,14 @@ line-height:1.5;
 font-size: 1.125rem}
 
 p.text-decorations{display: inline;border-bottom:2px solid #ff3530;}
-p.text-decoration{text-transform:Uppercase;}
+p.text-decoration{text-transform:Uppercase}
 p.font-properties{font-size:.85rem;}
 
 img {width:100%;}
 
 figcaption,.article-category,.sub-title,.author,time{font-family:"Open Sans";}
 
-.article-category{font-size:Uppercase;
+.article-category{font-size:Uppercase;text-transform:Uppercase;
 font-size:.85rem;border-bottom: 2px solid #ff3530;
 display:inline;}
 
